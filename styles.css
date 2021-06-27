@@ -1,0 +1,14 @@
+.container{
+  text-align: center;
+  margin-left: 30%;
+  width: 500px;
+  height: 500px;
+  margin-top: 10%;
+  background-color: black;
+  opacity: 0.6;
+  color: white;
+  border-radius: 10%;
+}
+body{
+background-image: url("http://source.unsplash.com/1600x900/?nature");
+}
